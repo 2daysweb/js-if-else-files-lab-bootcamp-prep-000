@@ -9,7 +9,7 @@ else{
 console.log("The name is incorrect");
 }
 
-if(height===70){
+if(height==="70"){
   console.log("The height is correct");
 }
 
