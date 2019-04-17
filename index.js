@@ -1,8 +1,20 @@
-var name = "Joe";
-var height = "74";
+var name = "Susan";
+var height = "70";
 
 if(name==="Susan"){
-  console.log("The name is correct")
+  console.log("The name is correct");
+}
+
+else{
+console.log("The name is incorrect");
+}
+
+if(height===70){
+  console.log("The height is correct");
+}
+
+  else{
+    console.log("The height is incorrect");
 }
 
 // Don't worry about this
